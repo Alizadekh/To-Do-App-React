@@ -1,0 +1,40 @@
+.todo {
+  width: 80%;
+  margin: auto;
+}
+.title {
+  text-align: center;
+  color: #604997;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 30px;
+}
+.inputDiv {
+  margin: auto;
+  text-align: center;
+  margin-top: 20px;
+}
+.inputDiv input {
+  width: 92%;
+  padding: 10px 12px;
+  border-radius: 10px;
+  outline: none;
+  border: 1px solid #604997;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  font-family: "Times New Roman", Times, serif;
+  height: 40px;
+}
+.inputDiv button {
+  width: 7%;
+  height: 40px;
+  border-radius: 10px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  outline: none;
+  border: none;
+  background-color: #604997;
+  border: 10px solid #604997;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+}
